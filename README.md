@@ -1,6 +1,6 @@
 - 👋 Hi, I’m adnan
 - 👀 I’m interested in dart and Flutter
-- 🌱 I’m currently perfecting my skills in dart and Flutter
+- 🌱 I’m currently working a full time Flutter development job and studying Computer Engineering at college
 - 📫 You can reach me on my email address [adnanfahedhr@gmail.com](mailto:adnanfahedhr@gmail.com)
 
 <!---
