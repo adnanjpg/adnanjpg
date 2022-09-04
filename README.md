@@ -1,6 +1,5 @@
 - 👋 Hi, I’m adnan
-- 👀 I’m interested in dart and Flutter
-- 🌱 I’m currently working a full time Flutter development job and studying Computer Engineering at college
+- 🌱 I’m currently working a full time `Mobile developer`, studying `Computer Engineering` and pursuing a path to become a `Full Stack Software Engineer`
 - 📫 You can reach me on my email address [adnanfahedhr@gmail.com](mailto:adnanfahedhr@gmail.com) and my [linkedin profile](https://www.linkedin.com/in/adnan-fahed)
 
 <!---
