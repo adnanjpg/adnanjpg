@@ -1,5 +1,5 @@
 - 👋 Hi, I’m adnan
-- 🌱 I’m currently working as a full time `Mobile developer`, studying `Computer Engineering` and pursuing a path to become a `Full Stack Software Engineer`
+- 🌱 I’m currently working as a full time `Full Stack Software Engineer` and studying `Computer Engineering`
 - 📫 You can reach me on my email address [adnanfahedhr@gmail.com](mailto:adnanfahedhr@gmail.com) and my [linkedin profile](https://www.linkedin.com/in/adnan-fahed)
 
 <!---
